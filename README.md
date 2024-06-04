@@ -30,8 +30,8 @@ To run this project locally, follow these steps:
 3. Open `index.html` in your preferred web browser.
 
 ##Directory Structure
-- nepali-recipes/
-- │
+**nepali-recipes/**
+**│**
 - ├── index.html       # Main HTML file
 - ├── style.css        # Main CSS file
 -├── hero.jpg         # Hero section background image
